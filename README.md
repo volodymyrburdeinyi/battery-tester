@@ -25,3 +25,5 @@ Solder resistors according to the provided schematic.
 
 Use R1 to set MES1 to the value corresponding to a fresh new battery.
 
+Photo of assembled device
+![Photo of the battery tester](https://github.com/volodymyrburdeinyi/battery-tester/blob/default/photo.jpg)
